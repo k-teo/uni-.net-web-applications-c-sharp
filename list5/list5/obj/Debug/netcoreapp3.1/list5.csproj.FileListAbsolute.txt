@@ -1,0 +1,13 @@
+C:\Users\klaud\Desktop\studies\.net\list5\list5\bin\Debug\netcoreapp3.1\list5.exe
+C:\Users\klaud\Desktop\studies\.net\list5\list5\bin\Debug\netcoreapp3.1\list5.deps.json
+C:\Users\klaud\Desktop\studies\.net\list5\list5\bin\Debug\netcoreapp3.1\list5.runtimeconfig.json
+C:\Users\klaud\Desktop\studies\.net\list5\list5\bin\Debug\netcoreapp3.1\list5.runtimeconfig.dev.json
+C:\Users\klaud\Desktop\studies\.net\list5\list5\bin\Debug\netcoreapp3.1\list5.dll
+C:\Users\klaud\Desktop\studies\.net\list5\list5\bin\Debug\netcoreapp3.1\list5.pdb
+C:\Users\klaud\Desktop\studies\.net\list5\list5\obj\Debug\netcoreapp3.1\list5.csprojAssemblyReference.cache
+C:\Users\klaud\Desktop\studies\.net\list5\list5\obj\Debug\netcoreapp3.1\list5.AssemblyInfoInputs.cache
+C:\Users\klaud\Desktop\studies\.net\list5\list5\obj\Debug\netcoreapp3.1\list5.AssemblyInfo.cs
+C:\Users\klaud\Desktop\studies\.net\list5\list5\obj\Debug\netcoreapp3.1\list5.csproj.CoreCompileInputs.cache
+C:\Users\klaud\Desktop\studies\.net\list5\list5\obj\Debug\netcoreapp3.1\list5.dll
+C:\Users\klaud\Desktop\studies\.net\list5\list5\obj\Debug\netcoreapp3.1\list5.pdb
+C:\Users\klaud\Desktop\studies\.net\list5\list5\obj\Debug\netcoreapp3.1\list5.genruntimeconfig.cache

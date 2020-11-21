@@ -1,0 +1,13 @@
+C:\Users\klaud\Desktop\studies\.net\list4\list4\bin\Debug\netcoreapp3.1\list4.exe
+C:\Users\klaud\Desktop\studies\.net\list4\list4\bin\Debug\netcoreapp3.1\list4.deps.json
+C:\Users\klaud\Desktop\studies\.net\list4\list4\bin\Debug\netcoreapp3.1\list4.runtimeconfig.json
+C:\Users\klaud\Desktop\studies\.net\list4\list4\bin\Debug\netcoreapp3.1\list4.runtimeconfig.dev.json
+C:\Users\klaud\Desktop\studies\.net\list4\list4\bin\Debug\netcoreapp3.1\list4.dll
+C:\Users\klaud\Desktop\studies\.net\list4\list4\bin\Debug\netcoreapp3.1\list4.pdb
+C:\Users\klaud\Desktop\studies\.net\list4\list4\obj\Debug\netcoreapp3.1\list4.csprojAssemblyReference.cache
+C:\Users\klaud\Desktop\studies\.net\list4\list4\obj\Debug\netcoreapp3.1\list4.AssemblyInfoInputs.cache
+C:\Users\klaud\Desktop\studies\.net\list4\list4\obj\Debug\netcoreapp3.1\list4.AssemblyInfo.cs
+C:\Users\klaud\Desktop\studies\.net\list4\list4\obj\Debug\netcoreapp3.1\list4.csproj.CoreCompileInputs.cache
+C:\Users\klaud\Desktop\studies\.net\list4\list4\obj\Debug\netcoreapp3.1\list4.dll
+C:\Users\klaud\Desktop\studies\.net\list4\list4\obj\Debug\netcoreapp3.1\list4.pdb
+C:\Users\klaud\Desktop\studies\.net\list4\list4\obj\Debug\netcoreapp3.1\list4.genruntimeconfig.cache
