@@ -1,0 +1,13 @@
+C:\Users\klaud\Desktop\studies\.net\list7\list7\bin\Debug\netcoreapp3.1\list7.exe
+C:\Users\klaud\Desktop\studies\.net\list7\list7\bin\Debug\netcoreapp3.1\list7.deps.json
+C:\Users\klaud\Desktop\studies\.net\list7\list7\bin\Debug\netcoreapp3.1\list7.runtimeconfig.json
+C:\Users\klaud\Desktop\studies\.net\list7\list7\bin\Debug\netcoreapp3.1\list7.runtimeconfig.dev.json
+C:\Users\klaud\Desktop\studies\.net\list7\list7\bin\Debug\netcoreapp3.1\list7.dll
+C:\Users\klaud\Desktop\studies\.net\list7\list7\bin\Debug\netcoreapp3.1\list7.pdb
+C:\Users\klaud\Desktop\studies\.net\list7\list7\obj\Debug\netcoreapp3.1\list7.AssemblyInfoInputs.cache
+C:\Users\klaud\Desktop\studies\.net\list7\list7\obj\Debug\netcoreapp3.1\list7.AssemblyInfo.cs
+C:\Users\klaud\Desktop\studies\.net\list7\list7\obj\Debug\netcoreapp3.1\list7.csproj.CoreCompileInputs.cache
+C:\Users\klaud\Desktop\studies\.net\list7\list7\obj\Debug\netcoreapp3.1\list7.dll
+C:\Users\klaud\Desktop\studies\.net\list7\list7\obj\Debug\netcoreapp3.1\list7.pdb
+C:\Users\klaud\Desktop\studies\.net\list7\list7\obj\Debug\netcoreapp3.1\list7.genruntimeconfig.cache
+C:\Users\klaud\Desktop\studies\.net\list7\list7\obj\Debug\netcoreapp3.1\list7.csprojAssemblyReference.cache
